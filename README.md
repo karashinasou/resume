@@ -1,14 +1,5 @@
 # 職務経歴書
 
-## 基本情報
-
-|key|value|
-|---|-----|
-|Name|戸森ひかげ|
-|GitHub|[tomori-hikage](https://github.com/tomori-hikage)|
-|Qiita|[@tomori_hikage](https://qiita.com/tomori_hikage)|
-|Twitter|[@tomori_hikage](https://twitter.com/tomori_hikage)|
-
 ## 希望業務
 
 - コンテンツ開発
@@ -40,16 +31,16 @@
 
 |名称|詳細|
 |-----|-----|
-|[inspector-duplicator](https://github.com/tomori-hikage/inspector-duplicator)|Inspectorビューをショートカットキーから複製してLockするエディタ拡張|
-|[game-view-maximizer](https://github.com/tomori-hikage/game-view-maximizer)|GameViewをショートカットキーからMaximizeするエディタ拡張|
-|[find-references-in-scene](https://github.com/tomori-hikage/find-references-in-scene)|コンポーネントを参照しているオブジェクトを検索するエディタ拡張|
-|[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/tomori-hikage/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
-|[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/tomori-hikage/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
-|[collider-visualizer](https://github.com/tomori-hikage/collider-visualizer)|当たり判定の表示デバッグ機能|
-|[create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
-|[json-formatter](https://github.com/tomori-hikage/json-formatter)|JSONのフォーマットクラス|
-|[state-machine](https://github.com/tomori-hikage/state-machine)|UniRxをベースにしたステートマシン|
-|[ugui-script-creator](https://github.com/tomori-hikage/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
+|[inspector-duplicator](https://github.com/karashinasou/inspector-duplicator)|Inspectorビューをショートカットキーから複製してLockするエディタ拡張|
+|[game-view-maximizer](https://github.com/karashinasou/game-view-maximizer)|GameViewをショートカットキーからMaximizeするエディタ拡張|
+|[find-references-in-scene](https://github.com/karashinasou/find-references-in-scene)|コンポーネントを参照しているオブジェクトを検索するエディタ拡張|
+|[UnityChanToonShaderVer2_VerticalDissolve](https://github.com/karashinasou/UnityChanToonShaderVer2_VerticalDissolve)|UTS2.0にVerticalDissolve機能を追加したシェーダー|
+|[UnityChanToonShaderVer2_EmissiveScroll](https://github.com/karashinasou/UnityChanToonShaderVer2_EmissiveScroll)|UTS2.0にEmissiveの明滅機能とスクロール機能を追加したシェーダー|
+|[collider-visualizer](https://github.com/karashinasou/collider-visualizer)|当たり判定の表示デバッグ機能|
+|[create-empty-at-zero-position](https://github.com/karashinasou/create-empty-at-zero-position)|生成した空のゲームオブジェクトのローカル座標をVector3.zeroにするエディタ拡張|
+|[json-formatter](https://github.com/karashinasou/json-formatter)|JSONのフォーマットクラス|
+|[state-machine](https://github.com/karashinasou/state-machine)|UniRxをベースにしたステートマシン|
+|[ugui-script-creator](https://github.com/karashinasou/ugui-script-creator)|uGUIをスクリプトで構築するためのAsset|
 
 ## 職務経歴
 
@@ -74,7 +65,7 @@
 
 #### [バーチャルライブアプリ IRIAM(イリアム)](https://iriam.com/)
 
-![IRIAM](https://github.com/tomori-hikage/resume/blob/master/Images/iriam.png)
+![IRIAM](https://github.com/karashinasou/resume/blob/master/Images/iriam.png)
 
 - インゲームUIの設計, 実装
 - アウトゲームUIの設計, 実装
