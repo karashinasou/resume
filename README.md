@@ -1,5 +1,10 @@
 # 職務経歴書
 
+## リンク
+
+[GitHub](https://github.com/karashinasou)
+[Qiita](https://qiita.com/karashinasou)
+
 ## 希望業務
 
 - コンテンツ開発
